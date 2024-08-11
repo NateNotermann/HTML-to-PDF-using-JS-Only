@@ -1,6 +1,6 @@
 body {
-  margin-top: 40px;
-  font-size: 22px;
+  margin-top: 10px;
+  font-size: 14px;
 }
 
 #ignore {
@@ -8,9 +8,17 @@ body {
 }
 
 #btn {
-  margin-top: 20px;
+  /* margin-top: 10px; */
+  /* border: 2px solid black; */
+  font-size: 14px;
 }
 
 #content img {
   max-width: 200px;
 }/*# sourceMappingURL=custom.css.map */
+
+#frame {
+  width: 100%;
+  border: 0; 
+  height: 100vh;
+}
